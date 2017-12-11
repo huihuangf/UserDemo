@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagerProject", "UserManagerProject\UserManagerProject.csproj", "{B7B4206F-4D27-484E-8B64-57D679053C8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbHelper", "DbHelper\DbHelper.csproj", "{0F45A340-EF57-4FC4-B598-7D0A51E9AB3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B7B4206F-4D27-484E-8B64-57D679053C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7B4206F-4D27-484E-8B64-57D679053C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7B4206F-4D27-484E-8B64-57D679053C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F45A340-EF57-4FC4-B598-7D0A51E9AB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F45A340-EF57-4FC4-B598-7D0A51E9AB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F45A340-EF57-4FC4-B598-7D0A51E9AB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F45A340-EF57-4FC4-B598-7D0A51E9AB3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
